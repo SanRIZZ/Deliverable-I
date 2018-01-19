@@ -1,0 +1,67 @@
+.wrapper{
+	 width: 1000px;
+     margin: 0 auto;
+	 border: 2px solid red;
+}
+
+header {
+    background-color: #E27D60;
+    text-align: center;
+    padding: 20px;
+}
+
+header h2{
+	color:  darkblue;
+}
+
+header span{
+	color: #555ccc;
+}
+
+header span h3{
+	font-weight: bold;
+}
+
+menu a {
+  color: #555ccc;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 20px 50px;
+  text-transform: uppercase;
+}
+
+menu li {
+  display: inline;
+}
+
+form {
+    border: 3px solid #f1f1f1;
+}
+
+wrapper container{
+	float :right;
+}
+
+input[type=text], input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+aside{
+	float: left;
+}
+
+footer{
+	text-align: center;
+}
+
